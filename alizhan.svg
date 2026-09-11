@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title">
-  <title id="title">Illustration for Alizhan Muratov</title>
-  <circle cx="100" cy="100" r="100" fill="#111111"/>
-  <circle cx="100" cy="75" r="38" fill="#e6b89c"/>
-  <path d="M45 190c7-45 31-65 55-65s48 20 55 65" fill="#e60000"/>
-  <text x="100" y="112" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#ffffff">AM</text>
-</svg>
